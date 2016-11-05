@@ -53,14 +53,14 @@ C'est une procédure un peu plus longue mais tout aussi simple.
    
     Pour l'installer, suivez cette commande :
     
-    ```sh
-    sudo apt-get install unzip
-    ```
+    ```sh
+    $ apt-get install unzip
+    ```
     
     Pour décompresser un fichier, utilisez cette commande :
     
     ```sh
-    unzip avatar-api-master.zip
+    $ unzip avatar-api-master.zip
     ```
     
     Le fichier doit être situé à sa destination finale.
